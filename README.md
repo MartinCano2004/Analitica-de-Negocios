@@ -1,0 +1,1 @@
+En esta carpeta se encuentran todos los archivos de Google Colab relacionados con la materia Analítica de Negocios. Entre estos archivos se encuentran: bases de datos de Excel utilizadas, retos realizados en la materia y todos los parciales realizados.
